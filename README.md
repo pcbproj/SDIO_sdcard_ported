@@ -5,13 +5,12 @@ Just simple munt SD-card, create text file and write string into it.
 
 ***
 ## Objective:
-- [x] Implement SDIO communications
-- [x] Interface the micro-SD card with the MCU for storage capabilities.
-- [x] Provide LED light indication for card detection
+- [ ] Implement SDIO communications
+- [ ] Interface the micro-SD card with the MCU for storage capabilities.
+- [ ] Provide LED light indication for card detection
 - [x] Condense the program to a callable function
-- [x] Store the output as a CSV file
-- [ ] Improve modularity for a swappable interface
-- [ ] Build a report generator with Excel and/or MatLab, or use DFR's DataAnalyzer
+- [ ] Write data in TXT-file
+
 
 
 ## Technologies:
