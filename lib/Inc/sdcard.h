@@ -20,7 +20,7 @@
 #define SDIO_CLK_PIN_NUM		12
 #define SDIO_CMD_PIN_NUM		2
 
-#define SD_CD_PIN_NUM			3	// card persence pin
+#define SD_CD_PIN_NUM			3	// card detection pin
 
 
 #define SD_CD_CHECK()	( SD_CD_PORT->IDR & ( 1 << SD_CD_PIN_NUM) )
